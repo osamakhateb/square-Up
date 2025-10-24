@@ -9,8 +9,8 @@ import { Route, Routes } from "react-router-dom";
 import EditForm from "./Pages/EditForm/EditForm.jsx";
 import EditFormAbout from "./Pages/EditFormAbout/EditFormAbout.jsx";
 import Navbar from "./Components/Navbar/Navbar.jsx";
-import Footer from "./components/Footer/Footer";
-import TrashPage from './Pages/TrashPage/TrashPage';
+import Footer from "./components/Footer/Footer.jsx";
+import TrashPage from './Pages/TrashPage/TrashPage.jsx';
 /* import AdminPage from './Pages/Admin/AdminPage'; */
 /* import UsersTable from "./Pages/UsersTable/UsersTable.jsx"; */
 import AdminPage from './Pages/AdminW/AdminPage.jsx';
