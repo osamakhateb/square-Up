@@ -8,7 +8,7 @@ import { Route, Routes } from "react-router-dom";
 /* import Dashboard from "./Pages/Dashboard/Dashboard.jsx"; */
 import EditForm from "./Pages/EditForm/EditForm.jsx";
 import EditFormAbout from "./Pages/EditFormAbout/EditFormAbout.jsx";
-import Navbar from "./components/Navbar/Navbar";
+import Navbar from "./Components/Navbar/Navbar.jsx";
 import Footer from "./components/Footer/Footer";
 import TrashPage from './Pages/TrashPage/TrashPage';
 /* import AdminPage from './Pages/Admin/AdminPage'; */
